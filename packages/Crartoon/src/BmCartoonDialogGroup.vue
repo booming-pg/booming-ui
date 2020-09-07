@@ -3,7 +3,7 @@
 </template>
 <script>
 export default {
-  name:"BmCartoonDialog",
+  name:"BmCartoonDialogGroup",
   data(){
     return{
 
